@@ -1,0 +1,16 @@
+{
+    "student": {
+      "name": "Ahmad Fadhil"
+    },
+    "lecturerCode": "D123",
+    "courses": [
+      {
+        "courseCode": "IF101",
+        "courseName": "Pemrograman Dasar"
+      },
+      {
+        "courseCode": "IF102",
+        "courseName": "Struktur Data"
+      }
+    ]
+  }
